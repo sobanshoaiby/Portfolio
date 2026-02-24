@@ -69,7 +69,7 @@ const Hero = () => {
                         <div className="blob"></div>
                         <div className="blob blob-2"></div>
                         <div className="profile-placeholder">
-                            <span className="profile-initial"><img src="/soban.png" alt="img" /></span>
+                            <img src="/soban.png" alt="Md Soban Shoaiby" className="profile-img" />
                         </div>
                     </div>
                 </motion.div>
