@@ -8,7 +8,7 @@ const Footer = () => {
             <div className="container footer-container">
                 <div className="footer-content">
                     <div className="footer-logo">
-                        <h2>Soban<span>.</span></h2>
+                        <h2>Soban <span>Shoaiby</span></h2>
                         <p>Full Stack Developer</p>
                     </div>
                     <div className="footer-contact">
@@ -26,7 +26,7 @@ const Footer = () => {
                             <a href="mailto:sobanshoaiby@gmail.com">
                                 <FiMail />
                             </a>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://github.com/sobanshoaiby" target="_blank" rel="noopener noreferrer">
                                 <FiGithub />
                             </a>
                         </div>

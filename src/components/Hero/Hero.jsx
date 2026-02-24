@@ -42,11 +42,11 @@ const Hero = () => {
                     </motion.h1>
 
                     <motion.h2 variants={itemVariants} className="hero-title">
-                        Full Stack Developer based in New Delhi.
+                        Full Stack Developer.
                     </motion.h2>
 
                     <motion.p variants={itemVariants} className="hero-description">
-                        Results-driven developer with 5+ years of experience designing and developing scalable web applications and backend services. Specializing in React.js, Node.js, Next.js, and creating secure, high-performance systems.
+                        Results driven developer with 5+ years of experience designing and developing scalable web applications and backend services. Specializing in React.js, Node.js, Next.js, and creating secure, high-performance systems.
                     </motion.p>
 
                     <motion.div variants={itemVariants} className="hero-cta">
@@ -69,7 +69,7 @@ const Hero = () => {
                         <div className="blob"></div>
                         <div className="blob blob-2"></div>
                         <div className="profile-placeholder">
-                            <span className="profile-initial">S</span>
+                            <span className="profile-initial"><img src="/soban.png" alt="img" /></span>
                         </div>
                     </div>
                 </motion.div>

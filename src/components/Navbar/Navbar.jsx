@@ -33,7 +33,7 @@ const Navbar = () => {
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ duration: 0.5 }}
                 >
-                    <a href="#home">Soban<span>.</span></a>
+                    <a href="#home">Soban <span>Shoaiby</span></a>
                 </motion.div>
 
                 {/* Desktop Menu */}
